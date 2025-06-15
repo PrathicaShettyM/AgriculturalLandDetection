@@ -1,0 +1,7 @@
+# virtual environment
+venv/
+
+# keras model
+ResNet50_agriculture_suitability.keras
+
+
